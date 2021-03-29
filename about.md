@@ -1,4 +1,4 @@
-
+# About Me
 I am currently a sophomore Computer Science student at Quinnipiac University.
 <br />
 My dad works in information technology and my brother is graduating with a Computer Science degree, so I was exposed to a lot of computer science growing up. It wasn't until my senior year of high school that I pursued computer science for myself. I absolutely loved the class I took, and my teacher was a huge advocate for women in STEM.
