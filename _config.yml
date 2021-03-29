@@ -1,4 +1,5 @@
-name: Example-website
+name: Amber-Kusma
 title: null
 plugins:
   - jemoji
+remote_theme: daviddarnes/garth
