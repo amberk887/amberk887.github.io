@@ -12,4 +12,4 @@ Although I switched majors, I do want to have a positive impact on the special n
 ![aboutmepic](./assets/images/aboutmepage.jpg)
 <br />
 
-![PetPic](./assets/images/petPic.jpg)
+![PetPic](./assets/images/petPic.JPG)
