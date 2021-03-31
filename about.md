@@ -1,3 +1,11 @@
+[Go to the Index page](./)
+
+Click [here](./) to be taken to the index page.
+
+[Go to the Project page](./project)
+
+Click [here](./project) to be taken to the headings page.
+
 # About Me
 I am currently a sophomore Computer Science student at Quinnipiac University.
 <br />
