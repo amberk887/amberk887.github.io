@@ -1,8 +1,10 @@
+<span style="color:purple">
+
 # Projects
-[Go to the Index page](./)
+
+</span>.
 
 Click [here](./) to be taken to the index page.
 
-[Go to the About Me page](./about)
 
 Click [here](./about) to be taken to the headings page.
