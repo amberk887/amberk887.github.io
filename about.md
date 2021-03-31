@@ -9,4 +9,7 @@ I currently have experience with Python, Haskell, and Java.
 <br />
 Although I switched majors, I do want to have a positive impact on the special needs community. In the future, I hope to be able to create apps or programs that can help people with special needs have better experiences. This can be through apps that aid learning, communication, or anything else that would be beneficial.
 <br />
-![AboutMe](./assets/images/aboutMePic.jpg)
+![aboutmepic](./assets/images/aboutmepage.jpg)
+<br />
+
+![PetPic](./assets/images/petPic.jpg)
