@@ -2,4 +2,3 @@ name: Home
 title: Home page
 plugins:
   - jemoji
-remote_theme: daviddarnes/garth
